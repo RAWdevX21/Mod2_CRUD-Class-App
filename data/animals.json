@@ -1,0 +1,122 @@
+[
+    {  
+        "id": 1,
+        "name": "squirrel",
+        "points": 2
+    },
+    {  
+        "id": 2,
+        "name": "coyote",
+        "points": 40
+    },
+    {  
+        "id": 3,
+        "name": "owl",
+        "points": 10
+    },
+    {  
+        "id": 4,
+        "name": "bald eagle",
+        "points": 100
+    },
+    {  
+        "id": 5,
+        "name": "seal",
+        "points": 30
+    },
+    {  
+        "id": 6,
+        "name": "virginia opossum",
+        "points": 40
+    },
+    {  
+        "id": 7,
+        "name": "osprey",
+        "points": 20
+    },
+    {  
+        "id": 8,
+        "name": "peregrine falcon",
+        "points": 30
+    },
+    {  
+        "id": 9,
+        "name": "piping plover",
+        "points": 20
+    },
+    {  
+        "id": 10,
+        "name": "red-tailed hawk",
+        "points": 50
+    },
+    {  
+        "id": 11,
+        "name": "bat",
+        "points": 30
+    },
+    {  
+        "id": 12,
+        "name": "racoon",
+        "points": 10
+    },
+    {  
+        "id": 13,
+        "name": "spotted salamander",
+        "points": 50
+    },
+    {  
+        "id": 14,
+        "name": "spring peeper",
+        "points": 50
+    },
+    {  
+        "id": 15,
+        "name": "whale",
+        "points": 200
+    },
+    {  
+        "id": 16,
+        "name": "canadian goose",
+        "points": 5
+    },
+    {  
+        "id": 17,
+        "name": "horseshoe crab",
+        "points": 10
+    },
+    {  
+        "id": 18,
+        "name": "painted turtle",
+        "points": 20
+    },
+    {  
+        "id": 19,
+        "name": "white-tailed deer",
+        "points": 20
+    },
+    {  
+        "id": 20,
+        "name": "american bullfrog",
+        "points": 40
+    },
+    {  
+        "id": 21,
+        "name": "diamond-backed terrapin",
+        "points": 20
+    },
+    {  
+        "id": 22,
+        "name": "red-backed salamander",
+        "points": 60
+    },
+    {  
+        "id": 23,
+        "name": "monarch butterfly",
+        "points": 50
+    },
+    {  
+        "id": 24,
+        "name": "red fox",
+        "points": 80
+    }
+]
