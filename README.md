@@ -1,10 +1,8 @@
 # Command-line CRUD Application
 
-In this pre-reading, you'll be building an app that helps motivate people to go outside and seek out nature. The person will go outside, try to (safely) find as many animals as possible, then record them. Rarer animals (fauna) will be worth more points.
+Building an app that helps motivate people to go outside and seek out nature. The person will go outside, try to (safely) find as many animals as possible, then record them. Rarer animals (fauna) will be worth more points.
 
-## Lesson Objectives
-
-By the end of this lesson
+## Objectives
 
 - Develop a list of minimal features
 - Create an app that uses user input to
@@ -13,7 +11,7 @@ By the end of this lesson
 - Delete data
 - Update data
 
-## Getting started
+## What's Happening
 
 With coding, there is always a temptation to jump into coding and solve whatever comes along. However, it's essential to take a few steps back. When you code without a plan, you can create features that no one asked for, make your code too complex, wholly misunderstand what you are building, or try to build something impossible within the time and technology constraints.
 
