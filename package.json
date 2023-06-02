@@ -1,0 +1,14 @@
+{
+  "name": "crud-class-notes",
+  "version": "1.0.0",
+  "description": "Building an app that lets users look for animals in NYC can conjure a lot of cool features. The list uses a particular pattern that usually starts with A user can - writing out features this way can be helpful because a non-technical person can understand what the feature should do and a technical person can understand what functionality they need to build.",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "RAWdevX21",
+  "license": "ISC"
+}
